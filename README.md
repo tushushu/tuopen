@@ -7,3 +7,4 @@ To contribute for open-sources.
 4. Pydantic-Core - `[perf]` [Improve PyMapping related function](https://github.com/pydantic/pydantic-core/pull/314)
 5. DataFusion - `[refactor]` [Split equivalence code into smaller modules.](https://github.com/apache/arrow-datafusion/pull/8649)
 6. DataFusion - `[refactor]` [Standardize CompressionTypeVariant encoding in protobuf](https://github.com/apache/arrow-datafusion/pull/8785)
+7. DataFusion - `[feat]` [Add serde support for Arrow FileTypeWriterOptions](https://github.com/apache/arrow-datafusion/pull/8850)
