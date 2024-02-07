@@ -8,3 +8,4 @@ To contribute for open-sources.
 5. DataFusion - `[refactor]` [Split equivalence code into smaller modules.](https://github.com/apache/arrow-datafusion/pull/8649)
 6. DataFusion - `[refactor]` [Standardize CompressionTypeVariant encoding in protobuf](https://github.com/apache/arrow-datafusion/pull/8785)
 7. DataFusion - `[feat]` [Add serde support for Arrow FileTypeWriterOptions](https://github.com/apache/arrow-datafusion/pull/8850)
+8. SmartCore - `[feat]` [Implement the feature importance for Decision Tree Classifier](https://github.com/smartcorelib/smartcore/pull/275)
