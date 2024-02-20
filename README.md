@@ -9,3 +9,4 @@ To contribute for open-sources.
 6. DataFusion - `[refactor]` [Standardize CompressionTypeVariant encoding in protobuf](https://github.com/apache/arrow-datafusion/pull/8785)
 7. DataFusion - `[feat]` [Add serde support for Arrow FileTypeWriterOptions](https://github.com/apache/arrow-datafusion/pull/8850)
 8. SmartCore - `[feat]` [Implement the feature importance for Decision Tree Classifier](https://github.com/smartcorelib/smartcore/pull/275)
+9. Burn - `[feat]` [Implement Instance Normalization](https://github.com/tracel-ai/burn/pull/1321)
